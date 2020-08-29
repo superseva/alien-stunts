@@ -10,7 +10,7 @@
    "scripts" : ["AlienStunts.js"],
    "packs": [],
    "languages": [],
-    "url": "",
-    "manifest": "",
-    "download": ""
+    "url": "https://github.com/superseva/alien-stunts",
+    "manifest": "https://raw.githubusercontent.com/superseva/alien-stunts/master/module.json",
+    "download": "https://github.com/superseva/alien-stunts/archive/master.zip"
  }
