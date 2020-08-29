@@ -1,0 +1,16 @@
+{
+   "name": "alien-stunts",
+   "title": "Alien Stunts List",
+   "description": "Showing Alien Stunts Options",
+   "author": "HappySteve",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.6.0",
+   "compatibleCoreVersion":"0.6.6",
+   "styles" : ["style.css"],
+   "scripts" : ["AlienStunts.js"],
+   "packs": [],
+   "languages": [],
+    "url": "",
+    "manifest": "",
+    "download": ""
+ }
